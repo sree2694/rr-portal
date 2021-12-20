@@ -1,0 +1,4 @@
+#Sun Sep 05 02:38:52 EDT 2021
+base.0=/Users/rohitchandran/learning/Flutter/enf_timesheets/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

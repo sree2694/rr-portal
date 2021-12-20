@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4.2 (swiftlang-1205.0.28.2 clang-1205.0.19.57)"
+options: "2d75fd2614b67ae83f597b031d61ba7c"
+build_time: [1631247110, 136168000]
+inputs:
+  "/Users/rohitchandran/learning/Flutter/enf_timesheets/macos/Runner/MainFlutterWindow.swift": [1625167594, 0]
+  "/Users/rohitchandran/learning/Flutter/enf_timesheets/macos/Runner/AppDelegate.swift": [1625167594, 0]
+  "/Users/rohitchandran/learning/Flutter/enf_timesheets/macos/Flutter/GeneratedPluginRegistrant.swift": [1631247088, 731030208]
