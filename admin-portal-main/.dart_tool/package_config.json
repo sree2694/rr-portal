@@ -39,7 +39,7 @@
     },
     {
       "name": "cupertino_icons",
-      "rootUri": "file:///D:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.3",
+      "rootUri": "file:///D:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/cupertino_icons-1.0.4",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -68,6 +68,12 @@
       "languageVersion": "2.12"
     },
     {
+      "name": "form_field_validator",
+      "rootUri": "file:///D:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/form_field_validator-1.1.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
       "name": "http",
       "rootUri": "file:///D:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http-0.13.4",
       "packageUri": "lib/",
@@ -76,6 +82,12 @@
     {
       "name": "http_parser",
       "rootUri": "file:///D:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/http_parser-4.0.0",
+      "packageUri": "lib/",
+      "languageVersion": "2.12"
+    },
+    {
+      "name": "intl",
+      "rootUri": "file:///D:/flutter/flutter/.pub-cache/hosted/pub.dartlang.org/intl-0.17.0",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -158,7 +170,7 @@
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2021-12-20T07:40:39.262552Z",
+  "generated": "2021-12-29T02:24:07.040786Z",
   "generator": "pub",
   "generatorVersion": "2.14.4"
 }
