@@ -111,7 +111,7 @@ class _EmployeeDetailScreenState extends State<EmployeeDetailScreen> {
           Padding(
             padding: const EdgeInsets.all(20.0),
             child: Text(
-              employee.name,
+              employee.firstName,
               textScaleFactor: 2,
               style: TextStyle(fontWeight: FontWeight.bold),
             ),
@@ -163,17 +163,17 @@ class _EmployeeDetailScreenState extends State<EmployeeDetailScreen> {
                   TextFormField(
                     decoration:
                         const InputDecoration(hintText: 'Enter Employee Name'),
-                    initialValue: employee.name,
+                    initialValue: employee.firstName,
                   ),
-                  TextFormField(
-                    decoration:
-                        const InputDecoration(hintText: 'Enter Job Status'),
-                    initialValue: employee.status,
-                  ),
+                  // TextFormField(
+                  //   decoration:
+                  //       const InputDecoration(hintText: 'Enter Job Status'),
+                  //   initialValue: employee.status,
+                  // ),
                   TextFormField(
                     decoration:
                         const InputDecoration(hintText: 'Enter Phone Num'),
-                    initialValue: employee.phone,
+                    initialValue: employee.phoneNumber,
                   )
                 ])
               ],
